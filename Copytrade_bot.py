@@ -8,8 +8,8 @@ from datetime import datetime
 from http.server import HTTPServer,BaseHTTPRequestHandler
 from urllib.parse import urlparse
 
-API_KEY="6x1kayhrawnq6xkgcd4kjh3hb5tk4uam9xvnmy2ud9p7jd3ad9n38kvhcdu54d3e6nu4mwa295tk4hu4dx1mey2dcxvqevb189u5ehj1anak0k9bddp4ce38e9a4mcuc9mr5chbkewyku70rk8x3gdn7k8dbd74wmmyja90atq48hv9e18kabv2etq6mjjhehjqexb4dnkkuf8"
-WALLET_PRIVATE_KEY="qjnecsg2RVUTxiSWhefdva1V27Ph5xnpaVBmKdYykdaEsdsYsqTrVe5Q5uwygyp5J5SVnECWxbnLg1XMc5u13ML"
+API_KEY=""
+WALLET_PRIVATE_KEY=""
 MASTER_MODE="simulate"
 MASTER_ON=False
 MASTER_MAX_CONN=20
